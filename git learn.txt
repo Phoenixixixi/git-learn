@@ -2,3 +2,4 @@ learning git from wpu
 - after i learn front end i will learn git
 - this is the repository 
 - learn from chat gpt
+- NOW IS EDITING THE FILE
